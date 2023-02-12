@@ -1,2 +1,2 @@
 # Tally-U
-## a MERN stack application
+A MERN stack application
