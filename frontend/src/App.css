@@ -1,0 +1,18 @@
+.logo {
+    background: url("./components//images/bg.jpg") cover;
+    padding: 0px;
+    margin: 0px;
+    width: 400px;
+    height: 125px;
+}
+
+.navbar-brand {
+    background: url("./components/images/lg2.jpg") ;
+}
+
+#backm {
+    /* background:  fixed; */
+    background: url("./components/images/loginback.jpg") no-repeat ;
+    width: 100%;
+    height: 100%;
+}
