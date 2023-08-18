@@ -51,7 +51,7 @@ Folder Structure
 
 Usage
 -----
-Register or log in to your account.
-Add clients' details in the Clients section.
-Create invoices for your projects in the Invoices section.
-Monitor your earnings and invoice status on the Dashboard.
+>> Register or log in to your account.
+>> Add clients' details in the Clients section.
+>> Create invoices for your projects in the Invoices section.
+>> Monitor your earnings and invoice status on the Dashboard.
