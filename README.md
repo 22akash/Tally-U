@@ -16,32 +16,32 @@ Notifications: Receive alerts for upcoming payments and overdue invoices.
 
 Installation
 -------------
-Navigate to the server folder: cd freelancer-invoicing-system/server
-Install backend dependencies: npm install
-Set up environment variables in .env file (see .env.example for reference).
-Start the backend server: npm start
-Open a new terminal and navigate to the frontend folder: cd ../frontend
-Install frontend dependencies: npm install
-Start the frontend development server: npm start
+>>Navigate to the server folder: cd freelancer-invoicing-system/server
+>>Install backend dependencies: npm install
+>>Set up environment variables in .env file (see .env.example for reference).
+>>Start the backend server: npm start
+>>Open a new terminal and navigate to the frontend folder: cd ../frontend
+>>Install frontend dependencies: npm install
+>>Start the frontend development server: npm start
 
 Technologies Used
 -----------------
 Frontend:
 React
-  Functional components for effective User interface
-  React Router for navigation
+  >>Functional components for effective User interface
+  >>React Router for navigation
   
 Backend:
-Node.js with Express
-MongoDB for database management
-Mongoose for object modeling
+  >>Node.js with Express
+  >>MongoDB for database management
+  >>Mongoose for object modeling
 
 Folder Structure
-/frontend: Contains the React frontend code.
-/backend/config: Contains the Express backend code and API routes.
-/backend/models: Defines Mongoose models for MongoDB.
-/backend/middlewares: Implements route handlers and business logic.
-/backend/routes: Defines API routes and endpoints.
+>> /frontend: Contains the React frontend code.
+>> /backend/config: Contains the Express backend code and API routes.
+>> /backend/models: Defines Mongoose models for MongoDB.
+>> /backend/middlewares: Implements route handlers and business logic.
+>> /backend/routes: Defines API routes and endpoints.
 
 Usage
 -----
