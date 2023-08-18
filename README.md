@@ -28,20 +28,20 @@ Technologies Used
 -----------------
 Frontend:
 React
-  >>Functional components for effective User interface
-  >>React Router for navigation
+  Functional components for effective User interface;
+  React Router for navigation
   
 Backend:
-  >>Node.js with Express
-  >>MongoDB for database management
-  >>Mongoose for object modeling
+  Node.js with Express;
+  MongoDB for database management;
+  Mongoose for object modeling
 
 Folder Structure
->> /frontend: Contains the React frontend code.
->> /backend/config: Contains the Express backend code and API routes.
->> /backend/models: Defines Mongoose models for MongoDB.
->> /backend/middlewares: Implements route handlers and business logic.
->> /backend/routes: Defines API routes and endpoints.
+* /frontend: Contains the React frontend code.
+* /backend/config: Contains the Express backend code and API routes.
+* /backend/models: Defines Mongoose models for MongoDB.
+* /backend/middlewares: Implements route handlers and business logic.
+* /backend/routes: Defines API routes and endpoints.
 
 Usage
 -----
