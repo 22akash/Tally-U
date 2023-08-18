@@ -6,6 +6,7 @@ Description
 -----------
 The Freelancer Invoicing System is a MERN application designed to help clients with multiple freelancers, to add, manage, and send invoices . It is built using the MERN (MongoDB, Express, React, Node.js) stack, providing a full-stack solution for efficient invoicing and managing.
 
+
 Features
 ---------
 User Authentication: Register, login, and manage your account securely.
@@ -13,6 +14,7 @@ Client Management: Keep track of your clients' (or freelancers) information and 
 Invoices : Easily create professional invoices with customizable templates ( can be updated).
 Dashboard: Get an overview of your financial data and performance.
 Notifications: Receive alerts for upcoming payments and overdue invoices.
+
 
 Installation
 -------------
@@ -24,24 +26,28 @@ Installation
 >>Install frontend dependencies: npm install
 >>Start the frontend development server: npm start
 
+
 Technologies Used
 -----------------
 Frontend:
 React
-  Functional components for effective User interface;
-  React Router for navigation
+  * Functional components for effective User interface;
+  * React Router for navigation
   
 Backend:
-  Node.js with Express;
-  MongoDB for database management;
-  Mongoose for object modeling
+  * Node.js with Express;
+  * MongoDB for database management;
+  * Mongoose for object modeling
+
 
 Folder Structure
+-----------------
 * /frontend: Contains the React frontend code.
 * /backend/config: Contains the Express backend code and API routes.
 * /backend/models: Defines Mongoose models for MongoDB.
 * /backend/middlewares: Implements route handlers and business logic.
 * /backend/routes: Defines API routes and endpoints.
+
 
 Usage
 -----
