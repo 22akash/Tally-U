@@ -9,22 +9,22 @@ The Freelancer Invoicing System is a MERN application designed to help clients w
 
 Features
 ---------
-User Authentication: Register, login, and manage your account securely.
-Client Management: Keep track of your clients' (or freelancers) information and contact details.
-Invoices : Easily create professional invoices with customizable templates ( can be updated).
-Dashboard: Get an overview of your financial data and performance.
-Notifications: Receive alerts for upcoming payments and overdue invoices.
+- User Authentication: Register, login, and manage your account securely.
+- Client Management: Keep track of your clients' (or freelancers) information and contact details.
+- Invoices : Easily create professional invoices with customizable templates ( can be updated).
+- Dashboard: Get an overview of your financial data and performance.
+- Notifications: Receive alerts for upcoming payments and overdue invoices.
 
 
 Installation
 -------------
->>Navigate to the server folder: cd freelancer-invoicing-system/server
->>Install backend dependencies: npm install
->>Set up environment variables in .env file (see .env.example for reference).
->>Start the backend server: npm start
->>Open a new terminal and navigate to the frontend folder: cd ../frontend
->>Install frontend dependencies: npm install
->>Start the frontend development server: npm start
+* Navigate to the server folder: cd freelancer-invoicing-system/server
+* Install backend dependencies: npm install
+* Set up environment variables in .env file (see .env.example for reference).
+* Start the backend server: npm start
+* Open a new terminal and navigate to the frontend folder: cd ../frontend
+* Install frontend dependencies: npm install
+* Start the frontend development server: npm start
 
 
 Technologies Used
